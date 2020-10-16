@@ -39,7 +39,7 @@ ${data.usage}
 
 ${data.contributions}
 
-## Test instructions:  
+
 
 ${data.tests}
 
